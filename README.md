@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Natthachaaa
-- 👀 I’m interested in learning UX/UI Design
-- 🌱 I’m currently  Flutter UI/UX 
-- 📫 How to reach me Natthacha.y@ku.th
-- ⚡ Fun fact /I think learning what you like is the fun part of life./
+- 👀 I’m interested in : learning UX/UI Design
+- 🌱 I’m currently : Flutter UI/UX 
+- 📫 How to reach me : Natthacha.y@ku.th
+- ⚡ Fun fact : I think learning what you like is the fun part of life.
 
 
 
